@@ -1,5 +1,4 @@
 class Solution {
-    class Solution {
     public boolean isPalindrome(String s) {
        // s = s.replaceAll("//s","");
         s=s.toLowerCase();
